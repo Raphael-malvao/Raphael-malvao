@@ -1,5 +1,8 @@
-## Hi there 👋
+# olá! ✌️
+#### f 
 
+[![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/malvao_raphael_?utm_source=qr&igsh=ZzZ0MzZ2OTVkdzd1)
+[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/raphael-malv%C3%A3o-6988ab2b3/)
 <!--
 **Raphael-malvao/Raphael-malvao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
