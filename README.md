@@ -1,12 +1,39 @@
-# olá! ✌️
-#### Olá, meu nome é Raphael Malvão, tenho 18 anos e sou estudante do colégio Gonzaga no Jardim São Luís, onde estou concluindo o ensino técnico NOVOTEC. Sou uma pessoa curiosa e organizada, sempre em busca de aprimoramento pessoal e profissional. Atualmente, estou focado no desenvolvimento de software, estudando Java e o framework Spring, além de C#.
-#### Estou aberto a conversar e tirar dúvidas sobre a área de T.I., e ficaria feliz em receber orientações e conselhos para minha carreira.
+# Olá! ✌️
+
+### E aí, beleza? Eu sou o Raphael Malvão, um desenvolvedor *recém-nascido*  que acabou de sair da incubadora do ensino médio técnico de três anos 🎓 .  Atualmente, estou mergulhando de cabeça no desenvolvimento de software, com foco em **Java** e **C#**.
+
+---
+
+### 🌱 O que estou aprendendo
+
+Atualmente, estou me aprofundando nos seguintes tópicos:
+
+- Programação orientada a objetos com **C#** e **java**
+- Boas práticas de codificação e controle de versão com **Git**
+- Desenvolvimento de aplicações utilizando **MySQL** como banco de dados
+
+---
+### 🚀 Tecnologias e Ferramentas
+
+[![c#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)]()
+[![java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)]()
+[![spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)]()
+[![git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)]()
+[![mysql](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)]()
+
+---
+
+### 📈 Estatísticas do GitHub
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=seuusername&show_icons=true&theme=radical)
+
+---
+
+### 📫 Vamos conversar?
+
+Estou aberto a tirar dúvidas, receber feedbacks e orientações sobre a área de T.I. Você pode me encontrar nas seguintes plataformas:
 
 [![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/malvao_raphael_?utm_source=qr&igsh=ZzZ0MzZ2OTVkdzd1)
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/raphael-malv%C3%A3o-6988ab2b3/)
+[![github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Raphael-malvao)
 
-## Tecnologias que estou aprendendo
-
-[![c#](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)]()
-[![java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)]()
-[![excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)]()
