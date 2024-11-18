@@ -1,6 +1,6 @@
 # Olá! ✌️
 
-### E aí, beleza? Eu sou o Raphael Malvão, um desenvolvedor *recém-nascido* que acabou de sair da incubadora do ensino médio técnico de três anos 🎓. Atualmente, estou mergulhando de cabeça no desenvolvimento de software, com foco em **C#** e **.NET**.
+### E aí, beleza? Eu sou o Raphael Malvão, um desenvolvedor *recém-nascido* que acabou de sair da incubadora do ensino médio técnico de três anos 🎓. Atualmente, estou mergulhando de cabeça no desenvolvimento de software, com foco em **Java** e **Spring Boot**.
 
 ---
 
@@ -8,7 +8,9 @@
 
 Atualmente, estou me aprofundando nos seguintes tópicos:
 
-- Programação orientada a objetos com **C#**
+- Programação orientada a objetos com **Java**
+- Desenvolvimento de aplicações utilizando **Spring Boot**
+- Construção de APIs e microserviços com **Spring Boot**
 - Boas práticas de codificação e controle de versão com **Git**
 - Desenvolvimento de aplicações utilizando **MySQL** como banco de dados
 
@@ -16,8 +18,8 @@ Atualmente, estou me aprofundando nos seguintes tópicos:
 
 ### 🚀 Tecnologias e Ferramentas
 
-[![c#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)]()  
-[![dotnet](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)]()  
+[![java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)]()  
+[![spring](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white)]()  
 [![git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)]()  
 [![mysql](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)]()
 
