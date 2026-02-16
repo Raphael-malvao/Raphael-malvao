@@ -1,42 +1,31 @@
-# 👋 Olá, eu sou o Raphael Malvão!
+# Raphael Malvão de Souza
+**Quantitative Finance | Valuation | Financial Modeling | Python**
 
-### 🎯 Sobre mim  
-📌 Estudante de **Engenharia de Produção**, interessado em otimização de processos, análise de dados e mercado financeiro.  
-📊 Busco integrar tecnologia e gestão para encontrar soluções eficientes e baseadas em dados.  
-💻 Formação técnica em **TI**, com conhecimentos em **Python, automação e análise de dados**.  
-🔍 Atualmente, meu foco é testar e aprimorar meus conhecimentos em engenharia, tecnologia e finanças por meio de projetos e estudos práticos.  
+### Sobre mim
+Estudante de Engenharia de Produção no IFSP – Campus São Paulo, com sólida orientação quantitativa e foco estratégico no mercado financeiro.
+Possuo interesse em análise de investimentos, estrutura de capital e modelagem baseada em dados, complementados por uma visão crítica advinda de formação humanista em História e Filosofia.
 
----
+### Áreas de Especialização
+* **Valuation**: DCF, múltiplos e cálculo de custo de capital (WACC, CAPM).
+* **Modelagem Financeira**: Análise de sensibilidade e demonstrativos financeiros (DRE, BP, DFC).
+* **Gestão de Risco**: Simulações quantitativas e análise de solvência.
+* **Estratégia**: Tomada de decisão fundamentada em métodos quantitativos
 
-### 🚀 Habilidades & Tecnologias  
+### Stack Técnico
+* **Linguagens & Dados**: Python (Pandas, NumPy) para automação e análise exploratória.
+* **Ferramentas**: Excel Avançado (Dashboards, VBA e fórmulas financeiras).
+* **Finance**: Modelagem de Fluxo de Caixa Descontado e Análise Fundamentalista.
+* **Idiomas**: Inglês Intermediário para leitura de relatórios técnicos de *Equity Research*.
 
-- **📊 Análise de Dados:** Python (Pandas, NumPy, Matplotlib)  
-- **⚙️ Engenharia de Produção:** Gestão, otimização e melhoria de processos  
-- **💾 Tecnologia & Automação:** Desenvolvimento com Python e TI  
-- **📉 Finanças & Negócios:** Modelagem financeira e análise de investimentos  
-- **🛠 Ferramentas:** Excel avançado, Power BI, SQL e Git  
+### Projetos em Destaque
+* **Simulação de Estresse de Crédito (Python)**: Script para modelar cenários adversos de fluxo de caixa em cadeias industriais, visando identificar gargalos de liquidez.
+* **Modelagem de WACC – Setor Elétrico**: Cálculo aplicado do custo médio ponderado de capital para a ISA CTEEP, integrando beta setorial e benefício fiscal.
+* **Estudos de Valuation e M&A**: Análise de casos reais focada em sinergias operacionais e distinção entre valor intrínseco e preço de mercado.
 
----
+### Objetivo Profissional
+Busco oportunidade de estágio no mercado financeiro para atuar com análise, modelagem e avaliação de investimentos em ambientes de alta exigência analítica.
 
-### 📂 Projetos  
-
-🔹 **[Nome do Projeto 1](#)** – Aplicação de análise de dados em processos operacionais e financeiros.  
-🔹 **[Nome do Projeto 2](#)** – Automação e otimização de fluxos de trabalho utilizando tecnologia.  
-
-*(Sempre explorando novas ideias e aplicando conceitos na prática! 🚀)*  
-
----
-
-### 📊 Estatísticas do GitHub  
-
-![Raphael's GitHub stats](https://github-readme-stats.vercel.app/api?username=Raphael-malvao&show_icons=true&theme=radical)  
-
----
-
-### 📫 Vamos conversar?  
-
-Se quiser trocar uma ideia sobre **engenharia, tecnologia ou finanças**, entre em contato:  
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/raphael-malv%C3%A3o-6988ab2b3/)  
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Raphael-malvao)  
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/malvao_raphael_?utm_source=qr&igsh=ZzZ0MzZ2OTVkdzd1)
+### Contato
+* **LinkedIn**: [linkedin.com/in/raphael-malvão](https://www.linkedin.com/in/raphael-malv%C3%A3o-6988ab2b3/)
+* **Email**: raphaelmalvao0@gmail.com
+* **GitHub**: [github.com/Raphael-malvao](https://github.com/Raphael-malvao)
