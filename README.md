@@ -5,7 +5,7 @@
 Estudante de Engenharia de Produção no IFSP – Campus São Paulo, com sólida orientação quantitativa e foco estratégico no mercado financeiro.
 Possuo interesse em análise de investimentos, estrutura de capital e modelagem baseada em dados, complementados por uma visão crítica advinda de formação humanista em História e Filosofia.
 
-### Áreas de Especialização
+### Áreas de estudo
 * **Valuation**: DCF, múltiplos e cálculo de custo de capital (WACC, CAPM).
 * **Modelagem Financeira**: Análise de sensibilidade e demonstrativos financeiros (DRE, BP, DFC).
 * **Gestão de Risco**: Simulações quantitativas e análise de solvência.
